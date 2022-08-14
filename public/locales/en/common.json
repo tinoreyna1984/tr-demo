@@ -1,0 +1,15 @@
+{
+  "Home": {
+    "title": "Home",
+    "message": "Hello world!"
+  },
+  "About": {
+    "title": "About"
+  },
+  "Services": {
+    "title": "Services"
+  },
+  "Contact": {
+    "title": "Contact"
+  }
+}

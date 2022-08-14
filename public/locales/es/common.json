@@ -1,0 +1,15 @@
+{
+  "Home": {
+    "title": "Inicio",
+    "message": "Hola mundo!"
+  },
+  "About": {
+    "title": "Acerca"
+  },
+  "Services": {
+    "title": "Servicios"
+  },
+  "Contact": {
+    "title": "Contacto"
+  }
+}

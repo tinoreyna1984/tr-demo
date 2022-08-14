@@ -12,17 +12,17 @@ export async function getStaticProps({locale}) {
   };
 }
 
-export default function Home() {
-  const t = useTranslations("Home");
+export default function Services() {
+  const t = useTranslations("Services");
   return (
     <div className="container">
       <Head>
         <title>{t("title")}</title>
-        <meta name="description" content="Homepage" />
+        <meta name="description" content="Services Q360 brings to you" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="row mt-3">
-        <h1>{t("message")}</h1>
+        <h1>{t("title")}</h1>
       </div>
     </div>
   );
